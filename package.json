@@ -1,0 +1,22 @@
+{
+  "name": "pi_node_express_setup_intro",
+  "version": "1.0.0",
+  "description": "See the title",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatSpaceGuy/prime_NodeExpress_SetupIntro.git"
+  },
+  "author": "Luis Matos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThatSpaceGuy/prime_NodeExpress_SetupIntro/issues"
+  },
+  "homepage": "https://github.com/ThatSpaceGuy/prime_NodeExpress_SetupIntro#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
